@@ -1,0 +1,88 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : pPresetMenuAnimation
+ major_version : 28
+ minor_version : 0
+ type : 7
+ description : ""
+ subtype : 0
+procedure_set :
+ identifier : 0x11e187ff048a082e
+ internal_properties : CAAAAAgAAABGLu41kG7fjQV3iS4F72qmnKaNh5694reolNKIW0iw
+ code_elements :
+  internal_properties : CAAAAAgAAACiA1qz086kt2DaZSDb9Jb5EK4cDTGMVunadAcSN1QkQ9+e6XgwxjhcQ8mBRyZbvEUnPYw8E+GtIkBGj970xODz2RQnneKO3LH92ZhG56fN
+  type_code : 31
+  p_codes :
+   -
+     code : |1-
+      // This set of procedures is used to manage the animations of a given menu
+      gsProcedurePrepare	is string	// Preparation procedure
+      gsProcedurePlay		is string	// Reading procedure
+      gnAnimationNumber	is int	// Number of the animation
+      gbAnimationsEnabled	is boolean = True	// Animations enabled
+     type : 720896
+  procedures :
+   -
+     name : MenuAnimPrepare
+     procedure_id : 1288460497767303214
+     type_code : 15
+     group : 2
+     code : |1-
+      // Summary: runs the preparation procedure (positioning of controls, visibility)
+      // Syntax:
+      //MenuAnimPrepare ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      
+      procedure MenuAnimPrepare()
+      
+      // If a procedure is defined
+      if gsProcedurePrepare <> "" then
+      	// Runs the procedure
+      	Execute(gsProcedurePrepare)
+      end
+     type : 458752
+   -
+     name : MenuAnimPlay
+     internal_properties : CAAAAAgAAADz2jIIXYVFRFZfLF3SUTaQO4fsial9sdN2EdmcwOH+foql6JtHQfKTg3REuSqE2AYzb64EwKvmzE1hJ6MPcZMa5V+bsnoIaTu0kAh3T9mPIR1cAUf1S4ywcx2vR2bRFtB4S3e/sZ+bvFCBL9j1e4sPYKbM5fzJZIYFrOQ7gzV8/w==
+     procedure_id : 1288460497767368750
+     type_code : 15
+     group : 2
+     code : |1-
+      // Summary: Plays the menu animation
+      // Syntax:
+      //MenuAnimPlay ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      // Automatic procedure:
+      // The procedure is run manually, during a call in the code, with a delay set to 
+      // 
+      
+      procedure MenuAnimPlay()
+      
+      // If a procedure is defined
+      if gsProcedurePlay <> "" then
+      	// Runs the procedure
+      	Execute(gsProcedurePlay)
+      end
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : COL_Collection1
+resources :
+ string_res :
+  identifier : 0x1fbceea60cbcde5a
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAABtB9HWVzrXO2+4NDRVK0vmzaNKrCKqH1DBX30lMmGZ

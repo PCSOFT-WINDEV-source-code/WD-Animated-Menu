@@ -1,0 +1,128 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Animated Menu
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Example of animation on an application menu
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Animated Menu
+    internal_properties : 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
+    configuration_id : 16657773893999618460
+    type : 1
+    generation_name : WD Animated Menu.exe
+    version :
+     major_version : 27
+     minor_version : 57
+     internal_generation_version : 1
+     autoincrement_version : false
+    icon_filename : .\VST18120j.ico
+    language : 2
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAACqcMa27L3eoXWM+JuZBVo2/Yb5AzLHmsK/7Er5I0s+RhD0MaIq9oFVhfCoYEgWvuBwXZurSR4qtKa/amE=
+ elements :
+  identifier : 0x4cd2c4f500130295
+  elements :
+   -
+     name : pPresetMenuAnimation
+     identifier : 0x4a1bbd7f000340e3
+     internal_properties : CAAAAAgAAABDP7vv3ImhugXYYC9ei5vY4dxIaGxVSmdCgSGNDzBiTqoGpJ1invxvYtzGMvLuin5Gzg==
+     physical_name : .\pPresetMenuAnimation.wdg
+     type : 7
+   -
+     name : WIN_Example2
+     identifier : 0x417bafdf00ee2550
+     internal_properties : CAAAAAgAAABTr4ufLBkRyuKabBAo6bHmt9aOli4yQsq5Uxq8HxACLsZe0EW6RunKs2xWomKeWk62vg==
+     physical_name : .\WIN_Example2.wdw
+     type : 2
+   -
+     name : WIN_Products
+     identifier : 0x417baff4010879ba
+     internal_properties : CAAAAAgAAABh3VlNeiePoKQg5tMnKU9uvdz0vJyov+lZb4wCpZrwINBgVJVwUXNUCTKsFJxULJxk7A==
+     physical_name : .\WIN_Products.wdw
+     type : 2
+   -
+     name : WIN_Example1
+     identifier : 0x417bb8d4045a2537
+     internal_properties : CAAAAAgAAACFge0xDqsDHCDcq+ug2Z2hUT6kpIAeduKg5dXboHEtqxXfdq+kYDSQda4okBDAuCiQkA==
+     physical_name : .\WIN_Example1.wdw
+     type : 2
+   -
+     name : TPLC_Menu
+     identifier : 0x417bb38402b561f7
+     internal_properties : CAAAAAgAAACKgPKWFVLahVsD3drfxVZC0mVxMR0RFDCyG0ZQ+SZuolb0J8ru3Mg3LBWPaSmnU0WPlw==
+     physical_name : .\TPLC_Menu.wdt
+     type : 20
+   -
+     name : WIN_Main
+     identifier : 0x417bb152023fcfff
+     internal_properties : CAAAAAgAAAAKAHIWldJaBduDWxhDg+zejpH9/dMxo4emFnN+7wKKTrJ4a2TuFE63rJUP6akn08UPFw==
+     physical_name : .\WIN_Main.wdw
+     type : 2
+   -
+     name : QRY_Products
+     identifier : 0x417bb129015f2f3b
+     internal_properties : CAAAAAgAAAAqIBJ2tfK65ftjO9diy4QyPrHNrYOvsB6iZl9gYw4O2hbUq3Tuy64XzHVvSckH8+UvNw==
+     physical_name : .\QRY_Products.WDR
+     type : 5
+  other_elements :
+   -
+     physical_name : .\BackgroundSelection.png
+   -
+     physical_name : .\BackgroundButton.png
+  analysis : .\WD Pure Menu.ana\WD Pure Menu.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAADt1vtjCkTwnmCzpJ2hoOVKwwGQhka4DyK1/QSMkzKEEUA8yWDIDJdhJq0F9AzGyWXqBzNFWUvZX6YZwedfWfeHZmz2NHYShEU=
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Animated Menu
+     identifier : 0x4cd2c4f50019037f
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

@@ -1,0 +1,1306 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Example2
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Example2
+ identifier : 0x21e187fe0815057f
+ internal_properties : CAAAAAgAAACX5hnP/LA4wDWhGzxiA70QChUxefR5H26WxRdCf5cLsb9JyWa3j7MDsNabFGt0/M85K1yO5Fu8WWWKYtIhp7nScVmaxO8s+9ihzRSJdcSe0hgjKz4xKvzqtGXDXXPHQ/RGGLrJIDMnglheanR9+ENFbhxsyt3mlJlYrDxeOMd3Myv8vEgvf7mJjRIqUKe47gPlv9dGlNPRXC1V7nH++bi4q0ozlGWcnZpEaxyPBaaU+3pm5UXSfqpCtgWRTShQY8hkVjwI4EhCtmqcypWEZi2PwBbHCv8jCXD4yBEFbo1vQ1Vc4khfBpXQJt9BBm0gTjDbBCsH1bjzEd2AQAff1CEKPmSB1+bQfrjFDd0MMEacxFtp6cUQs0zdbKT5NGSxS00wUHWi0h6G1oZmPsvE/W+y8yPu8dmzO03lNcxz43VPjbKlhUGWP79t4RlCLLOSt3tzZiHesQMt4vQRldgJKrGXe8QH+DsGkIXpo/NW0cDBIvRI6XkI2KpjI1u81zcVV+YwymxxcYeq42vB69QuruAPltOC+W6v6jiUKLnOmjpF8aLCjoNCjZVkqGJS/4ues8KJT/bVg+k9Coi7APkwAxc5Rzn5mcdp1Hcj7fGdS4Vq7StN2D/bA6gTzuCRrRDWa/9+TDLJgEwE5IyQV0H+4B9HjQ7vPuVibXWDvC4G+2Hu8EuVDs+c7B0yjJ3eoG0VybHszKVPBmqQLhKg5+b5wh0K4JTagEIaJ6v4YHK+OcmwfJE=
+ properties :
+  width : 786
+  height : 527
+  widthClient : 784
+  heightClient : 495
+ controls :
+  -
+    name : CTPL_Menu
+    identifier : 0x21e187fe0816057f
+    internal_properties : CAAAAAgAAACTZekMQOpIvrs+YXFs1ju8+4OADHIY/Gr3skaZvh2vJmPVlG3pkE0oo1lMV1iP5ednzr4B6LKSsazzt8EUX7Ql4Swuc/kchrGv1cUsnsdJYLCR8/ccp3sp+jKfzzsXtmQy/ujmcyyfcho2etz6xU7mjP/MEgKcTXx+SmSa3U5Iv81eWsyVnUH2NLG3265b0mZjEeyeUbIuqKZUKr1mcRXz+AtCvolC5Ip8VyqOJbRZ0Udd10Wz7ixgxoEVEVR5ilbqEvKvIEDCTBY6PdEcgZcee2pXEGhZ/d474QVIf3E4bx4VhO+L0SBO3P9DN2K+vf6oCnN+ZLaLZhpq/vuMb7BdSAOXsFSYHIjRw7fC/fAXs4TFAbgjkN53b20gmDRfe3ekgEe4FrKD6N4dJNTWRRXzf0bItEKBHU3e4d8N/GoTq9cu1uFrKr7Gh5OWDPqkhFAl0rtw0ir1RMKp5eIuwkpDhMS/cOSg5gCNVb12EPSm1+r3JAuJxQY3FN3h5u4FB8e0qRd6zwKfDz7Nw/ygXM2OFxbv0OZZ9njA0DJF8U0Vn2cpxF/RLZ/HdqX+FTl5h62fr1H+/edY2X7LJ4zla+pgs9YjyFiIVB1WuTiLM+FBkjOOElgIdOktFnXdyI59k/X0qzNeJqLTHOa2FK1c0FKWuaCs3OzKAbL6V9goFQKXTZOTBeqX0Rx9UbXw5F2UUd2JTRbdzzP7+mNcw2rcyhCRNb9rZulWR5qjui2hP0aXuO5dEYTKXyDrKl/8CB+TDZwBxqbCh9GG1uj0GubPTc9wjMwDIB5ZejFGUA0NpVPRjN/kJf7NlVYw7Ake+iZZz8x1fJoFUVU8ZoHULCYgLmaX6UptCa0UJSxhySFYURzGbzX4v4ayn5ggNUleWNxKgQYpWoxn
+    properties :
+     x : 19
+     y : 19
+     width : 743
+     height : 302
+    controls :
+     -
+       name : BTN_OptionToClone
+       identifier : 0x21e187fe0817057f
+       internal_properties : CAAAAAgAAADSj2jszUbQILO1nvVjHcqJJ/UOn814Zn/otwYbYlEdZXjr9dmlldXHsXBrZ3xWy1DdAzet5ju3H5GO9q4gWIyewK1pOmr+N4yTwv/ccs/GHWUXSCbvA/quLO3vI53/zSYQQ95hGsugG8DK7BOyoOOJxckf2H/Nx9QzezsrtXPfvLJs7jQPBX+DL4ZrxOAajh2tNsLl8/BWNwfdproEFYVqVb3i2vmZMLg61z4tBeMfT/Uqb6mINQWDCNzger4p0mbpxIBmCsZQ9S6Iqem07x9k0InWdgaCyxENTQ+XPZFfzB+dUwMTXgODzQMUS6VDp7Qfl/pfu7ZDlx6XQuN2fuVPjMvHD+iCLas6eLYm9EeJwp3SKtUbd64+Sa/7GWaKD7aDvTDCshQjIyASDN61sNCPJVU2kgL1JFY/BYoBRR14EacSdv4x9fQdEXXWlUeuEJQPGplzNRO1w2KjSY1RSh+6eK0azbf7UV+DAin1XGfjP+fal+eHuyGAr0OF9hLhdMXrkv+Ta+gAVmBHW9B+aAegVBDvA/W45XCEOIvxd/MTWS5bGr1/0Xf8Ad3+H1vSGOfX3Lpl1UBq9fSyLhprOwDTIcebXi4tVj/g7883+9dvcU6n5b62ckW3RBhsK+da6eOIWWFT/LbfL2YtQODsw56PHMLed+hWJXXPQjC/6m7epvsinsSJXzO3PoBvzJMje1B6Thnsv8fcVApgjyyU7IZ1yQDYMH4MotTeZ0NyrcNHf1pMP/mXFfdqxYXXRyfKbRAKOM8btr3O6fswhNSQ29JLtiB31Q7bvlftTHWcbmasgKPY4D4uIK1O12ZdSaGxzFhAcefexxf0JmgTdFgrEDWKZIljQtcvoNiyzYC3Xpt+dwFYE22POS3gbvjM+xJbVtoUTixkHCAn/Hy07dqBn4ErPNS4/820MnQIFJ/LF2bMBGTNpl492q9andjojrVXS6UMEc4nUxNEN9t5FdCbcm444EZzYNgwnamsPnrqcLZccn1M4yhb0ZblpA3/UB7eXKtniZglmsxmyuWK3eiflZ0ipUkXGsHbkGnqb8niY8K5MYy/CE7vp0jNeJYMLCqV99dofX779YlgltXuakpM/KoL+xKqaMBcTzu4wstUUo++lyT7XTSf28DJxp5J7MFUn83E74m0tlIG214Baf26Loj83rEd6g4HU9xYpdQddFdFYg8MlNMaTY+F9FKd8rXpWsGTtmMjQiK2uA7O81rF7/NYpe9+ZwHhQfsVV+PGc+2/P6ODCpDUnKI5ct7PPeRYlKQz1E2SUb2pw5Ms8JDLDQhdyFdfeiPi6k3QQJeIYVvDJv8jV1LcDW+6TKcRNUi5MI374CX2Eu8gktKRyxi4XcpSqOXCCb9gGTj7/v/GgWBsGle6ef5uvgq7cjGlD6klmtAEvd99bOgPpz8iZXgEEe+jZyR6b9KlleFvlbvaHyJa5cXZPMCjrl+p5g/E5CUMRlXNydK91Rhyc3ik5h1yLCMr0pR1Jho8BiBu3xX8jbNYUMQi20ek65z31i1WvzAAyEtlEphV9dCqwaL3LyKeXlu/5iVkz8Nap7CVP7i5b10+qsZR1cJy2B8m3vvoX/cmVP5lTmIsG4reN0RG3P68XvClhOo7OADC/VpECXoHHGiEyT4VvdZjFYZFgL2BFgUT5Vm6lxB/EQSLd0me+oJLHBr2t0gKFlzwR/l7hzwKahkQ+Z5x9icze3VpE/pWkyQFhpJ41gepfxf0XH8LrjAu5NSUSnUl6kafOp5ETRmpdcFP/zwq36g=
+       properties :
+        x : 188
+        y : 84
+        width : 523
+        height : 64
+       type : 4
+       code_elements :
+        internal_properties : CAAAAAgAAAAYE1H/zzfWa9bIJ8X8Ro2LTo8mPTSKrw3FJ7/v7uG83j3NmM+GqePpu/XwOynosypt7xXcoyCVlRLOCJ5QfqmlUqC4qHNeCi+/53KFvMblVTyzoCk+IbIUvNFZ
+        type_code : 4
+        p_codes :
+         -
+           code : |1-
+            //Run the process defined in the template
+            ExécuteAncêtre
+           type : 14
+         -
+           code : |1-
+            //Run the process defined in the template
+            ExécuteAncêtre
+           type : 18
+         -
+           type : 161
+           enabled : false
+         -
+           code : |1-
+            //Run the process defined in the template
+            ExécuteAncêtre
+           type : 66048
+        templates :
+         -
+           name : BTN_OptionToClone
+           identifier : 0x155797500256a1a8
+           code_elements :
+            internal_properties : CAAAAAgAAACcut06GZ+hXHeyH+btNK2TrDRZbAI5gz9dYb+JNB5bKxTovrgwwkYQNvYjndMi2w3gG/vlA0ETEjQVnOWx+gYRqrowyTzEqusN9nBQS3yPEF1EsX352H2M
+            type_code : 4
+            p_codes :
+             -
+               internal_properties : CAAAAAgAAADRo7T/86SFxlHa93jMx5a/Mete/EbXt4sZEAtGmMXpeUtm2PjV8nWxUomfpsyyW3whXEgExnpBlZW8P3ANI98DKiIjVnZrA1X/sZkHCx0hsVAaY3ofznVk78fsJ2ycLN8+Gh70k3FUFNr8LXY=
+               code : |1-
+                nIndex is int
+                // Stores the subscript corresponding to this option
+                nIndex = _FindSubscript(MySelf.Name)
+                // If it is the selected option
+                if nIndex = gnSelectedOption then
+                	// Runs the associated click code
+                	_CallCallback(CALLBACK_CLICK, MySelf.Name)	
+                else
+                	
+                	// Selects the button
+                	gnSelectedOption = nIndex
+                	// Refreshes the display
+                	DrawMenu()
+                	// Runs the associated selection code
+                	_CallCallback(CALLBACK_SELECTION, MySelf.Name)
+                	
+                	// If the menu is in "one click" mode
+                	if gbOneClickMode then
+                		
+                		// Makes a pause
+                		Multitask(-50)
+                		// Runs the associated click code
+                		_CallCallback(CALLBACK_CLICK, MySelf.Name)
+                		
+                	end
+                	
+                end
+               type : 18
+             -
+               type : 161
+               enabled : false
+             -
+               code : |1-
+                // Runs the associated rollover code
+                _CallCallback(CALLBACK_ROLLOVER, MySelf.Name)
+               type : 66048
+     -
+       name : IMG_OptionImage
+       identifier : 0x21e187fe0818057f
+       internal_properties : CAAAAAgAAAALS2vGFlMOXO3jc6SgXcUXwF5bQFjoJ0fHsHV4ADCvRlYNLZbDMjos9d7J3FaMK93RKt/nuElGi+bZWF20XD/xXb4KMgDCVacRD3BlSeOQOAUyOs/cxlIMSipMS4ovCTafSn2ER6tCER3IS+uilgJI1t+uEuv2bi7ndbM06rm460gSSNcUhcmfi3MbfRamZE9wUvY3aOfLU+Lqr5XBHyA+DmF8RkNpIwogI/0l773V8sLsAoU2KWK6Xjmo1TxGRVANsAwQ6qoLbzmPZTEfUIvKhzuLTFz9C5kNR0Zi7V+Aac8LXPrZab6Kan5cJTwDYRbirqqrjsnucgIOKTnlXiEL4VAfYVEN5E9XAsCY4AyGgy0mm9a78HDXKzp8zdNltpNc6DotEewIzsMGPBAJKlQT6biWEgf0JdnJ0K8AKBUrOQI9/UCLNC1slza6Rw1ez1DF2k9BFyY6ALIh8wRtg1oTuU2l4q1vV2pPbpXG1mhj9jojIvb/7OGIjmUsEhssTEXE/w7Ge1vTRV9bRAmQ6K2c8to1flyiHzVDUOd8GXAQQEeZc9M6BIJiWkXlOgdbYDhkdEhZwgHGei84bgWNm44AjKxHhUtGmDMDnk38z5NscbJJk14O/8nxBGSBJzSxaCE5NC8En2VvQsm8ZoPmLI5Pd+2fFhB8v2InX2DSkhjJ+hDfh0kLpKWknaywNEPypjMyyktTQEQ2AMI7CSHooreTv/4fU0CEfsl7srQ0t+RFyiramEl9MmDD6YJ7OvGn9BY9wNYEaFmStfBMlcPWicMyFEe84BsIyFt6kjHHpFaCE9149Ger3tEmexV5CbWVHXgTDcLZ5FeosvHZDT/CsHQjs7NBl0Fswt2YXtcebUqu54nSjXD7hhX/xmAPIvO56i8xNyDvSiRAoioxoi4lmP9MgXXz18rVfFErMyAAzzmrBDBqYZR2UjD855Lt6M2WZbFCNWIgwA0fVhxGR3nsmJl+qFrC/z2cb7vrM+nnTmaTUMU3dqPPmgHWX8+fPTyPuyXEwm9T3a9Rpa+yukF0OBI++ACrq277q8bu11bXNYdP2gGvZqp74C8the2qAqSrkeMIInqZzFOso/nb7+fTEk186Cvs3vzSqGT5CcCCA/ksnBdNbyLtAN2SGX7yCPvpu+oxuZd6Z8K72sP7m/NtSstbcfh3a6TowXhGIJK7UdQCd44qX3igxzIad9lXxYaMB6J8ic8N4OCrmpDGq/0zylv4RWRZDQbQH7FiQTo2bPo6ByQJjLdiWhO9maIXosO1vw0TYlkoy9e09IhYN76wKk22ZavCy+amElbqmpa9JKz9UbYYhbL9bXdRwuyptua7fEnRPEIegeIwuWhhftyAdy5vOAOEBkl8U3CqrfbSF5EwBywEEsSmJGxm+0eWIo/tOBHLI9rbAuhJOBbUVfQLtTlmPCiXrklJtc9g56UXugcGWPbCAcB5HOcqDcRjPx/FFJ8kFq7ef73GGCcFgDXjc9U+93L8j1IeW6d7sC0EKAMxf53AtVmsJ8HvP7dgb2Ag4m+iZIPeVCkyu4zu9sN9igXHWdAa8Dr5FdQ5QRtYwFpJ+s3T7ErorC5qtr+5gFxJdrluE7p9ll4GUqjrfqBdH5BR0Oks90Pqdn/jPbs7FA0XQmWvyXlocPURK50MAaB0gZodYlac1+WTmTKFUyb45+zELDKz/z7+6Td8VO3qboth4O+uANj4+L/FaGlKKHuyoKTRL8RrOSszKQM=
+       properties :
+        x : 264
+        y : 110
+        width : 100
+        height : 100
+       type : 8
+       code_elements :
+        internal_properties : CAAAAAgAAACNC06LqC5QbSIFyBd+r9r8AY3ChW0Y4hi8ABlr5jCreSLmhrAaOEQIDga9P85vtmBXmnR8fMicn4OkLRSQG2fwi5sR6BMtEVCmX+nf2s08Q25VQuyISex9
+        type_code : 8
+        p_codes :
+         -
+           code : |1-
+            //Run the process defined in the template
+            ExécuteAncêtre
+           type : 14
+         -
+           code : |1-
+            //Run the process defined in the template
+            ExécuteAncêtre
+           type : 18
+        templates :
+         -
+           name : IMG_OptionImage
+           identifier : 0x155797500257a1a8
+           code_elements :
+            internal_properties : CAAAAAgAAABd+5772N5gnTJ1WKcuf+rMEb3StV0I8ggMsOm7loB7CfLWVmDK6JQ4Xka9v/5/BjCHSqRMrJhs79N0fcRAS7dAe4sB+AM9IWC2LzmPij1MUx6Fcjw4mTzN
+            type_code : 8
+            p_codes : []
+    type : 43
+    code_elements :
+     internal_properties : CAAAAAgAAAAIA/tM8/pUX8og0qy+0kR88n6rxX0BLjcXyuOA0r2896Wqw92+6P7dQSBvrXYBPS/HSfjhE21gCAs/MupuQPVMwSvrW5QEAXTNP2GEO1Z/IFAHbhJpZdFaEA==
+     type_code : 93
+     p_codes :
+      -
+        code : |1-
+         
+      -
+        code : |1-
+         //Run the process defined in the template
+         ExécuteAncêtre
+        type : 14
+      -
+        code : |1-
+         //Run the process defined in the template
+         ExécuteAncêtre
+        type : 15
+      -
+        code : |1-
+         //Run the process defined in the template
+         ExécuteAncêtre
+        type : 16
+      -
+        code : |1-
+         //Run the process defined in the template
+         ExécuteAncêtre
+        type : 43
+      -
+        code : |1-
+         //Run the process defined in the template
+         ExécuteAncêtre
+        type : 42
+      -
+        code : |1-
+         //Run the process defined in the template
+         ExécuteAncêtre
+        type : 17
+      -
+        type : 65541
+     procedures :
+      -
+        name : _CallCallback
+        internal_properties : CAAAAAgAAAB7k9/KbXe9EO0T1PUIjTcHoeOQqpSGDTLUqxcyKWLfb3jqJaz+wySU/cNjHJR8RDCvmIIYR6T8WsjH2SiFH24rSR9m/WofogBq0pQv8Oa3PiK1E5Xrqn7nkGFdFOzKkB8+DsOp8861mJSWQasVK2JprLadcnlOlMXDtk+AsEnQVOR3EIiI/XaUHHqZ6W6aI1pdvLqmmJX3MxIN28VVIur0mN3u2bygYRg8PMYq66az96IlvwCTwAT5+fjIsbz6GmPwDGQo1e+whfP9ZNnKkSTCI2vj+/f3Eb+ljvfrelkDZ0G7ZTBlSz7FhsPdL+fO
+        procedure_id : 1288460493470500223
+        type_code : 14
+        code : |1+
+         // Sumary: Runs the CallBack procedure associated with the requested type
+         // Syntax:
+         //_CallCallback (<nCallbackType> is int, <sButtonName> is string)
+         //
+         // Parameters:
+         //	nCallbackType (integer): Type of the CallBack (see the constants
+         //	sButtonName (ANSI string): Name of the button affected by the call
+         // Return value:
+         // 	None
+         //
+         
+         procedure _CallCallback(local nCallbackType is int, local sButtonName is string)
+         
+         nIndex is int
+         
+         
+         // Was the callback defined?
+         if gaaProcedures[nCallbackType] = Null then
+         	return
+         end
+         
+         // Find the button in the array
+         nIndex = ArraySeek(garrOptions, asLinear, "sButtonName", sButtonName)
+         // If the button was found in the table
+         if nIndex > 0 then
+         	// Runs the procedure 
+         	pProc is procedure = gaaProcedures[nCallbackType]
+         	pProc(garrOptions[nIndex]:sIdentifier)
+         end
+        type : 458752
+      -
+        name : _CreateButton
+        internal_properties : CAAAAAgAAADuZVniiWDOxVC+ULqEwBI+sDjxs/uHqLWVaOOcStFs09Wy5/mWZE71yXT+SSxbd02xf+YPwb8WqoWFCNgUms8qP6lp3Ra6u64L/a92NUwBptaN5KzDwzM8Ng==
+        procedure_id : 1288460493470565759
+        type_code : 14
+        code : |1-
+         // Summary: Creating a button in the menu
+         // Syntax:
+         //[ <Result> = ] _CreateButton (<nXPosition> is int, <nYPosition> is int, <fntFont> is font, <sCaption> is string, <sBackgroundImage> is string, <sButtonName> is string, <nOpacity> is int)
+         //
+         // Parameters:
+         //	nXPosition (integer): X-coordinate of the button
+         //	nYPosition (integer): Y-coordinate of the button
+         //	fntFont (font): Font associated with the button caption
+         //	sCaption (ANSI string): Caption of the button
+         //	sBackgroundImage (ANSI string): Background image of the button
+         //	sButtonName (ANSI string): Name of the button
+         //	nOpacity (integer): Opacity of the button
+         // Return value:
+         // 	ANSI string: Name of the created button
+         //
+         
+         procedure _CreateButton(local nPositionX is int, local nYPosition is int, local fntFont is font, local sCaption is string, local sBackgroundImage is string, local sButtonName is string, local nOpacity is int)
+         
+         // Is the name of the button specified?
+         if sButtonName = "" then
+         	
+         	// Defines a unique name for the button
+         	sButtonName = "BTN_MENU_" + GetIdentifier()
+         	
+         	// Clones the base button
+         	ControlClone(BTN_OptionToClone,sButtonName)
+         	
+         end
+         
+         // Positions the button
+         {sButtonName, indControl}..X = nPositionX
+         {sButtonName, indControl}..Y = nYPosition
+         
+         // Modifies the properties of the button
+         {sButtonName, indControl}..Font = fntFont
+         {sButtonName, indControl}..Opacity = nOpacity
+         {sButtonName, indControl}..Caption = sCaption
+         {sButtonName, indControl}..BackgroundImage = sBackgroundImage
+         {sButtonName, indControl}..Width = CoordinateEditorToScreen(TextExWidth(sCaption, fntFont))
+         {sButtonName, indControl}..Visible = True
+         
+         // Returns the name of the button
+         return sButtonName
+        type : 458752
+      -
+        name : _MouseWheel
+        internal_properties : CAAAAAgAAADuZVniiWDOxVC+ULqEwBI+sDjxs/uHqLWVaOOcStFs09Wy5/mWZE71yXT+SSxbd02xf+YPwb8WqoWFCNgUms8qP6lp3Ra6u64L/a92NUwBptaN5KzDwzM8Ng==
+        procedure_id : 1288460493470631295
+        type_code : 14
+        code : |1-
+         // Summary: Process to perform when the mouse wheel is enabled
+         // Syntax:
+         //_MouseWheel (<nMessage> is int, <wParam> is int, <lParam> is int)
+         //
+         // Parameters:
+         //	nMessage (integer): Message of the event
+         //	wParam (integer): Parameter of event
+         //	lParam (integer): Parameter of the event
+         // Return value:
+         // 	None
+         //
+         
+         procedure _MouseWheel(nMessage is int <useful>, wParam is int, lParam is int <useful>)
+         
+         nOption is int
+         
+         
+         // If the wheel was moved forward
+         if wParam > 0 then
+         	
+         	// We must move up (so reduce the selected option)
+         	nOption = Max(1, gnSelectedOption-1)
+         	
+         else
+         	
+         	// We must move down (so increase the selected option)
+         	nOption = Min(garrOptions.Count, gnSelectedOption+1)
+         	
+         end
+         
+         // If the option to select differs from the option that is already selected
+         if nOption <> gnSelectedOption then
+         	
+         	// Defines the new selected option
+         	gnSelectedOption = nOption
+         	// Redraws the menu
+         	DrawMenu()
+         	
+         	// Runs the selection code
+         	ExecuteCallBackSelection()
+         	
+         end
+        type : 458752
+      -
+        name : _DeleteMenu
+        internal_properties : CAAAAAgAAADuZVniiWDOxVC+ULqEwBI+sDjxs/uHqLWVaOOcStFs09Wy5/mWZE71yXT+SSxbd02xf+YPwb8WqoWFCNgUms8qP6lp3Ra6u64L/a92NUwBptaN5KzDwzM8Ng==
+        procedure_id : 1288460493470696831
+        type_code : 14
+        code : |1-
+         // Summary: Deletes the menu
+         // Syntax:
+         // New_Procedure ()
+         //
+         // Parameters:
+         //	None
+         // Return value:
+         // 	None
+         //
+         
+         procedure _DeleteMenu()
+         
+         // Browse the table of buttons
+         for i = 1 _to_ Dimension(garrOptions)
+         	
+         	// If the button name is not defined, toes to the next button in the table
+         	if garrOptions[i]:sButtonName ~= "" then continue
+         
+         	// If the button control exists
+         	if ControlExist(garrOptions[i]:sButtonName) then
+         		
+         		// Deletes the control
+         		ControlDelete(garrOptions[i]:sButtonName)
+         		
+         		// Resets the name of the button
+         		garrOptions[i]:sButtonName = ""
+         		
+         	end
+         	
+         end
+        type : 458752
+      -
+        name : _KeyPressed
+        internal_properties : CAAAAAgAAAC0wwXXXV42PHOhdZyPaycgLdH7ryCs0k8nLuqYtx7uzYIiNN2Lda+sMFXyyl7OI/5G6neEwkVq8ea1HNdaW0d92XlSC7YrOYsh0nVlpEeU5Uh3y+DdRy5/oaWnDASrww+byHovtD+lFfPazDX0rI9afZOv
+        procedure_id : 1288460493470762367
+        type_code : 14
+        code : |1-
+         // Summary: Procedure to run when a key is pressed
+         // Syntax:
+         // New_Procedure ()
+         //
+         // Parameters:
+         //	None
+         // Return value:
+         // 	None
+         //
+         
+         procedure _KeyPressed()
+         
+         // According to the key pressed
+         switch _EVE.wParam
+         	
+         	// Up arrow
+         	case VK_UP
+         		// We must move up: use the wheel mechanism
+         		_MouseWheel(WM_MOUSEWHEEL, 1, 0)
+         	
+         	// Down Arrow
+         	case VK_DOWN
+         		// We must move down: use the wheel mechanism
+         		_MouseWheel(WM_MOUSEWHEEL, -1, 0)
+         	
+         	// Home key
+         	case VK_HOME
+         		// First option
+         		gnSelectedOption = 1
+         		// Runs the selection code
+         		ExecuteCallBackSelection()
+         		// Draws the menu
+         		DrawMenu()
+         	
+         	// End key
+         	case VK_END
+         		// Last option
+         		gnSelectedOption = garrOptions.Count
+         		// Runs the selection code
+         		ExecuteCallBackSelection()
+         		// Draws the menu
+         		DrawMenu()		
+         		
+         	// Other key
+         	other case
+         		// No action
+         end
+        type : 458752
+      -
+        name : _FindSubscript
+        internal_properties : CAAAAAgAAABMZzKJJT9nLaRhV/hMfNA1d5466I2kH+llqZbUXNvOgTt4bTgVYhyuxo2iCU6x7OCHSgOdA52shyXKZpI0XUTH4YLGputYFsw64GAHDoTzlo/QdNm9uyZscANYqCW3LD4pzQ==
+        procedure_id : 1288460493470827903
+        type_code : 14
+        code : |1+
+         // Summary: Defines the subscript of the button
+         // Syntax:
+         //[ <Result> = ] _FindSubscript (<sButtonName> is string)
+         //
+         // Parameters:
+         //	sButtonName (ANSI string): Name of the button for which the subscript must be found
+         // Return value:
+         // 	integer: Subscript of the button in the table of buttons (-1 if the button was not found)
+         //
+         
+         procedure _FindSubscript(local sButtonName is string)
+         
+         nIndex is int
+         
+         
+         // Searches for the button in the table of buttons
+         nIndex = ArraySeek(garrOptions, asLinear, "sButtonName", sButtonName)
+         
+         // Returns the subscript of the button, -1 if the button was not found
+         return nIndex
+        type : 458752
+      -
+        name : EnableDisableDisplay
+        internal_properties : CAAAAAgAAADuZVniiWDOxVC+ULqEwBI+sDjxs/uHqLWVaOOcStFs09Wy5/mWZE71yXT+SSxbd02xf+YPwb8WqoWFCNgUms8qP6lp3Ra6u64L/a92NUwBptaN5KzDwzM8Ng==
+        procedure_id : 1288460493470893439
+        type_code : 14
+        code : |1+
+         // Summary: Enables or disables the display
+         // Syntax:
+         //EnableDisableDisplay (<bActive> is boolean)
+         //
+         // Parameters:
+         //	bEnabled (boolean): True to enable the display, False to disable it
+         // Return value:
+         // 	None
+         //
+         
+         procedure EnableDisableDisplay(local bEnabled is boolean)
+         
+         
+         // Browse the buttons of the menu
+         for i = 1 _to_ garrOptions.Count
+         
+         	// If the button control exists
+         	if ControlExist(garrOptions[i]:sButtonName) = True then
+         		
+         		// Enables or disables the display of this button
+         		{garrOptions[i]:sButtonName, indControl}..DisplayEnabled = bEnabled
+         		
+         	end
+         	
+         end
+         
+        type : 458752
+      -
+        name : AddOption
+        internal_properties : CAAAAAgAAADuZVniiWDOxVC+ULqEwBI+sDjxs/uHqLWVaOOcStFs09Wy5/mWZE71yXT+SSxbd02xf+YPwb8WqoWFCNgUms8qP6lp3Ra6u64L/a92NUwBptaN5KzDwzM8Ng==
+        procedure_id : 1288460493470958975
+        type_code : 14
+        code : |1+
+         // Summary: Adds an option to the menu
+         // Syntax:
+         //AddOption (<sCaption> is string, <nIdentifier> is int [, <sImage> is string])
+         //
+         // Parameters:
+         //	sCaption (ANSI string): Caption of the option to add
+         //	nIdentifier (integer): Identifier of the option to add
+         //	sImage (ANSI string - default value=""): Image associated with the option
+         // Return value:
+         // 	None
+         //
+         
+         procedure AddOption(local sCaption is string, local nIdentifier is int, local sImage is string = "")
+         
+         stAnOption is ST_OPTIONS
+         
+         
+         // Stores the information of the option
+         stAnOption:sCaption = sCaption
+         stAnOption:sImage = sImage
+         stAnOption:sIdentifier = nIdentifier
+         
+         // Adds the option to the table of options
+         ArrayAdd(garrOptions, stAnOption)
+        type : 458752
+      -
+        name : DrawMenu
+        internal_properties : CAAAAAgAAADuZVniiWDOxVC+ULqEwBI+sDjxs/uHqLWVaOOcStFs09Wy5/mWZE71yXT+SSxbd02xf+YPwb8WqoWFCNgUms8qP6lp3Ra6u64L/a92NUwBptaN5KzDwzM8Ng==
+        procedure_id : 1288460493471024511
+        type_code : 14
+        code : |1-
+         // Summary: Draws the menu
+         // Syntax:
+         // New_Procedure ()
+         //
+         // Parameters:
+         //	None
+         // Return value:
+         // 	None
+         //
+         procedure DrawMenu()
+         
+         nNbButtonsHeight is int
+         nOpacity is int
+         nPositionXCenter is int
+         nPositionYCenter is int
+         nCounter is int
+         nPositionX is int
+         nYPosition is int
+         i is int
+         j is int
+         nOpactityOffset is int
+         
+         
+         // No action if no option is defined
+         if garrOptions.Count = 0 then return
+         
+         // Disables the display of the buttons
+         EnableDisableDisplay(False)
+         // Resets the caption of the reference button
+         BTN_OptionToClone.Caption = ""
+         
+         // Defines the number of buttons in height 
+         // => leaves 5 pixels between each button
+         nNbButtonsHeight = CoordinateEditorToScreen(gnHeightTemplateControl) / (CoordinateEditorToScreen(BTN_OptionToClone.Height) + CoordinateEditorToScreen(5))
+         
+         // Defines the offset for the opacity
+         nOpactityOffset = 100 / Min(garrOptions.Count, nNbButtonsHeight/2)
+         
+         // The selected button must be centered
+         nPositionXCenter = CoordinateEditorToScreen(gnPositionXControl) + (CoordinateEditorToScreen(gnWidthTemplateControl) - (CoordinateEditorToScreen(BTN_OptionToClone.Width) + CoordinateEditorToScreen(30) + CoordinateEditorToScreen(IMG_OptionImage.Width))) / 2
+         nPositionYCenter = CoordinateEditorToScreen(gnPositionYControl) + (CoordinateEditorToScreen(gnHeightTemplateControl) - CoordinateEditorToScreen(IMG_OptionImage.Height)) / 2
+         // Positions the image associated with the option
+         IMG_OptionImage.X = nPositionXCenter
+         IMG_OptionImage.Y = nPositionYCenter
+         nPositionXCenter += CoordinateEditorToScreen(30) + CoordinateEditorToScreen(IMG_OptionImage.Width)
+         nPositionYCenter += CoordinateEditorToScreen(IMG_OptionImage.Height) /2 - CoordinateEditorToScreen(BTN_OptionToClone.Height) /2
+         
+         // Creates and positions the selected button
+         garrOptions[gnSelectedOption]:sButtonName = _CreateButton(nPositionXCenter, nPositionYCenter,
+         gfntFontSelectedButton,
+         garrOptions[gnSelectedOption]:sCaption, gsBackgroundImageSelectedButton, 
+         garrOptions[gnSelectedOption]:sButtonName, 100)
+         
+         // Assigns the image of the option into the image control
+         IMG_OptionImage = garrOptions[gnSelectedOption]:sImage
+         
+         nPositionX = nPositionXCenter
+         nYPosition = nPositionYCenter
+         nOpacity = 100
+         nCounter = 1
+         // Browse the previous options
+         for i = gnSelectedOption - 1  to 1 STEP -1
+         	
+         	// Defines the coordinates of the button
+         	nPositionX -= CoordinateEditorToScreen(Cos(gnSelectedOption - i + 1) * 10 + 5 * (gnSelectedOption - i + 1))
+         	nYPosition -= CoordinateEditorToScreen(5) + CoordinateEditorToScreen(BTN_OptionToClone.Height)
+         	// Defines the opacity of the button
+         	nOpacity -= nOpactityOffset
+         	
+         	// Creates and positions the button
+         	garrOptions[i]:sButtonName = _CreateButton(nPositionX, nYPosition,
+         	gfntFontStandardButton,
+         	garrOptions[i]:sCaption, gsBackgroundImageStandardButton,
+         	garrOptions[i]:sButtonName, nOpacity)
+         	
+         	// Increments the counter of options
+         	nCounter++		
+         	// Exit when we reach the number of buttons/2 in height
+         	if nCounter > nNbButtonsHeight / 2 then break
+         	
+         end
+         
+         // Makes the previous buttons invisible
+         for j = i to 1 STEP -1
+         	
+         	// If the button control exists
+         	if ControlExist(garrOptions[j]:sButtonName) then
+         		// Makes the button invisible
+         		{garrOptions[j]:sButtonName, indControl}..Visible = False	 
+         	end
+         	
+         end
+         
+         nPositionX = nPositionXCenter
+         nYPosition = nPositionYCenter
+         nOpacity = 100
+         nCounter = 1
+         // Browse the following options
+         for i = gnSelectedOption + 1 _to_ Dimension(garrOptions)
+         	
+         	// Defines the coordinates of the button
+         	nPositionX += Abs(Cos(gnSelectedOption - i + 1)) * 15 + 5 * (gnSelectedOption - i + 1)
+         	nYPosition = nPositionYCenter + ((5 + BTN_OptionToClone.Height) * nCounter)
+         	// Defines the opacity of the button
+         	nOpacity -= nOpactityOffset
+         	
+         	// Creates and positions the button
+         	garrOptions[i]:sButtonName = _CreateButton(nPositionX, nYPosition,
+         	gfntFontStandardButton,
+         	garrOptions[i]:sCaption, gsBackgroundImageStandardButton, 
+         	garrOptions[i]:sButtonName, nOpacity)
+         	
+         	// Increments the counter of options
+         	nCounter++
+         	// Exit when we reach the number of buttons/2 in height
+         	if nCounter > nNbButtonsHeight / 2 then break
+         	
+         end
+         // Makes the previous buttons invisible
+         for j = i _to_ Dimension(garrOptions)
+         	
+         	// If the button control exists
+         	if ControlExist(garrOptions[j]:sButtonName) then
+         		// Makes the button invisible
+         		{garrOptions[j]:sButtonName,indControl}..Visible = False
+         	end
+         	
+         end
+         
+         // Hides the reference button
+         BTN_OptionToClone.Visible = False
+         // Re-enables the display of the options
+         EnableDisableDisplay(True)
+        type : 458752
+      -
+        name : SelectOption
+        internal_properties : CAAAAAgAAADuZVniiWDOxVC+ULqEwBI+sDjxs/uHqLWVaOOcStFs09Wy5/mWZE71yXT+SSxbd02xf+YPwb8WqoWFCNgUms8qP6lp3Ra6u64L/a92NUwBptaN5KzDwzM8Ng==
+        procedure_id : 1288460493471090047
+        type_code : 14
+        code : |1+
+         // Summary: Selects an option
+         // Syntax:
+         //SelectOption (<nSubscript> is int)
+         //
+         // Parameters:
+         //	nSubscript (integer): Subscript of the selected option
+         // Return value:
+         // 	None
+         //
+         procedure SelectOption(local nIndex is int)
+         
+         
+         // If the subscript is correct 
+         if 0 < nIndex <= garrOptions.Count then
+         	
+         	// Defines this subscript as the current option
+         	gnSelectedOption = nIndex
+         	
+         	// Redraws the menu
+         	DrawMenu()
+         	
+         end
+        type : 458752
+      -
+        name : SetCallbackClick
+        internal_properties : CAAAAAgAAAAqW20HNLK3TIzSX8zz4QUHO10IcYkxjK6tFXwv0lCcJJdUevav7+fZC3FAHZcQtCa0emOPHDvPlKm9AVN3sv+e6K/QoXv61rpRWGa2TL5x2sK3ZB7QrAg38s+P641gUtEPLsXg481mJWqot1cwZcNakr3N2zW401nplLMPZIsGIgugsvHqn+Ni
+        procedure_id : 1288460493471155583
+        type_code : 14
+        code : |1+
+         // Summary: Defines the CallBack procedure when a click is performed on an option
+         // Syntax:
+         //SetCallbackClick (<pProcedure> is procedure)
+         //
+         // Parameters:
+         //	pProcedure (procedure): procedure to call when an option is clicked
+         // Return value:
+         // 	None
+         //
+         
+         procedure SetCallbackClick(local pProcedure is procedure)
+         
+         // Stores the procedure
+         gaaProcedures[CALLBACK_CLICK] = pProcedure 
+        type : 458752
+      -
+        name : SetButtonBackgroundImage
+        internal_properties : CAAAAAgAAADuZVniiWDOxVC+ULqEwBI+sDjxs/uHqLWVaOOcStFs09Wy5/mWZE71yXT+SSxbd02xf+YPwb8WqoWFCNgUms8qP6lp3Ra6u64L/a92NUwBptaN5KzDwzM8Ng==
+        procedure_id : 1288460493471221119
+        type_code : 14
+        code : |1-
+         // Summary: Defines the background image of buttons
+         // Syntax:
+         //SetButtonBackgroundImage (<sImage> is string)
+         //
+         // Parameters:
+         //	sImage (ANSI string): Background image of button
+         // Return value:
+         // 	None
+         //
+         
+         procedure SetButtonBackgroundImage(local sImage is string)
+         
+         // Stores the background image of the button
+         gsBackgroundImageStandardButton = sImage
+        type : 458752
+      -
+        name : SetBackgroundImageSelectionButton
+        internal_properties : CAAAAAgAAADuZVniiWDOxVC+ULqEwBI+sDjxs/uHqLWVaOOcStFs09Wy5/mWZE71yXT+SSxbd02xf+YPwb8WqoWFCNgUms8qP6lp3Ra6u64L/a92NUwBptaN5KzDwzM8Ng==
+        procedure_id : 1288460493471286655
+        type_code : 14
+        code : |1-
+         // Summary: Defines the background image of the buttons in selection
+         // Syntax:
+         //SetBackgroundImageSelectionButton (<sImage> is string)
+         //
+         // Parameters:
+         //	sImage (ANSI string): Background image of button
+         // Return value:
+         // 	None
+         //
+         
+         procedure SetBackgroundImageSelectionButton(local sImage is string)
+         
+         // Stores the background image of the button in selection
+         gsBackgroundImageSelectedButton = sImage
+        type : 458752
+      -
+        name : SetButtonFont
+        internal_properties : CAAAAAgAAADuZVniiWDOxVC+ULqEwBI+sDjxs/uHqLWVaOOcStFs09Wy5/mWZE71yXT+SSxbd02xf+YPwb8WqoWFCNgUms8qP6lp3Ra6u64L/a92NUwBptaN5KzDwzM8Ng==
+        procedure_id : 1288460493471352191
+        type_code : 14
+        code : |1-
+         // Summary: Defines the font used for the captions of the buttons
+         // Syntax:
+         //SetButtonFont (<fntFont> is font)
+         //
+         // Parameters:
+         //	fntFont (font): Font of the captions
+         // Return value:
+         // 	None
+         //
+         
+         procedure SetButtonFont(local fntFont is font)
+         
+         // Stores the font
+         gfntFontStandardButton = fntFont
+        type : 458752
+      -
+        name : SetFontSelectionButton
+        internal_properties : CAAAAAgAAADuZVniiWDOxVC+ULqEwBI+sDjxs/uHqLWVaOOcStFs09Wy5/mWZE71yXT+SSxbd02xf+YPwb8WqoWFCNgUms8qP6lp3Ra6u64L/a92NUwBptaN5KzDwzM8Ng==
+        procedure_id : 1288460493471417727
+        type_code : 14
+        code : |1-
+         // Summary: Defines the font used for the captions of the buttons in selection
+         // Syntax:
+         //SetFontSelectionButton (<fntFont> is font)
+         //
+         // Parameters:
+         //	fntFont (font): Font of the captions in selection
+         // Return value:
+         // 	None
+         //
+         
+         procedure SetFontSelectionButton(local fntFont is font)
+         
+         // Stores the font
+         gfntFontSelectedButton = fntFont
+        type : 458752
+      -
+        name : TextExWidth
+        internal_properties : CAAAAAgAAACg4zAkM6O8E1f0IbGt/e7gi5D7crW9F7GNwSkz+WEWIz2a6zxp9Ql6exVD/h+yHnbuVfeDbFCZ9IDeq+SDPx0Upx3xzGMYRcC2t+/gru2/lVhzvNFva4a6gTcXq1TvROzeEmaTWHc2bmo5QsHA/HaiRP6mepp4RyV3u5GfdLoogUAUrkjvuASqoHBfuO2/6+dTmKhXbHm5jYYxt3v80ZfLc7mP74h/ILw7kx5U9nDFzu02lSH+pa07uAatnHKksJViyEtgUiHUSApRlXe5/HopzYstmgHD2ZuhCUX7mnyJYz2cencaGPK9yrOQmJe0tb0HL122PhjYe9xNr2IrUsqCO1+mGvP/OLbeEQprCgc5gIMC4j34H3zpqup0jcSJfNIW776HEYS+QtsxOQ4KcUf+AE31t0WKCy4yjexmRn9uRehiPheV7WlWk60JBUA/2AcNI7vBqq7+fJRODvz3Q2tEl0hwbDFjyvFzoTslo6XP
+        procedure_id : 1288460493471483263
+        type_code : 14
+        code : |1+
+         // Summary: Defines the width of a text for a given font
+         // Syntax:
+         //[ <Result> = ] TextExWidth (<sText> is string, <fntFont> is font)
+         //
+         // Parameters:
+         //	sText (ANSI string): Text
+         //	fntFont (font): Font
+         // Return value:
+         // 	8-byte integer: Width occupied by the text for this font
+         //
+         
+         procedure TextExWidth(local sText is string, local fntFont is font)
+         
+         LOGFONT is Structure
+         	nHeight is int
+         	nWidth is int
+         	nEscapement is int
+         	nOrientation is int
+         	nWeight is int
+         	bItalic is 1-byte int
+         	bUnderlined is 1-byte int
+         	bStrikethrough is 1-byte int
+         	bCharset is 1-byte int
+         	bOutputPrecision is 1-byte int
+         	bClipPrecision is 1-byte int
+         	bPitchAndFamily is 1-byte int
+         	bQuality is 1-byte int
+         	arrFontName is FIXED ARRAY of 32 strings
+         end
+         ST_TextMetrics is Structure
+         	tmHeight is int 
+         	tmAscent is int
+         	tmDescent is int 
+         	tmInternalLeading is int
+         	tmExternalLeading is int 
+         	tmAveCharWidth is int 
+         	tmMaxCharWidth is int 
+         	tmWeight is int 
+         	tmOverhang is int
+         	tmDigitizedAspectX is int
+         	tmDigitizedAspectY is int
+         	tmFirstChar is 1-byte unsigned int
+         	tmLastChar is 1-byte unsigned int 
+         	tmDefaultChar is 1-byte unsigned int
+         	tmBreakChar is 1-byte unsigned int
+         	tmItalic is 1-byte unsigned int
+         	tmUnderlined is 1-byte unsigned int
+         	tmStruckOut is 1-byte unsigned int
+         	tmPitchAndFamily is 1-byte unsigned int
+         	tmCharSet is 1-byte unsigned int
+         
+         end
+         ST_Size is Structure
+         	nWidth is int
+         	nHeight is int
+         end
+         
+         nDC is int
+         
+         // Create a DC
+         nDC = API("gdi32", "CreateCompatibleDC", Null)
+         if nDC = 0 then
+         	dbgAssert(False, "Unable to create the DC")
+         end
+         // Copy the font into the FONT structure
+         stFont is LOGFONT
+         
+         stFont:arrFontName[1] = fntFont.Name
+         // Weight: 700 if bold, 400 if normal
+         stFont:nWeight = fntFont.Bold ? 700 else 400
+         stFont:bItalic = fntFont.Italic 
+         stFont:bUnderlined = fntFont.Underline
+         stFont:bStrikethrough = fntFont.StrikeOut
+         stFont:nHeight = fntFont.Size
+         
+         nFontHandle is system int
+         // Create the font
+         nFontHandle = API("gdi32", "CreateFontIndirectA", &stFont)
+         if nFontHandle = 0 then
+         	dbgAssert(False, "Unable to create the font")
+         end
+         
+         // Associate the font with the DC
+         API("gdi32", "SelectObject", nDC, nFontHandle)
+         stSize is ST_Size
+         
+         API("gdi32", "GetTextExtentPoint32A", nDC, &sText, Length(sText), &stSize)
+         sttm is ST_TextMetrics
+         
+         API("gdi32", "GetTextMetricsA",nDC, &sttm)
+         
+         logPixY is int = API("gdi32", "GetDeviceCaps", nDC, 90) // 90 = LOGPIXELSY
+         
+         API("user32", "ReleaseDC", Null, nDC)
+         API("Kernel32", "CloseHandle", nFontHandle)
+         
+         return stSize:nWidth - sttm:tmOverhang + logPixY
+        type : 458752
+      -
+        name : SetCallbackSelection
+        internal_properties : CAAAAAgAAADuZVniiWDOxVC+ULqEwBI+sDjxs/uHqLWVaOOcStFs09Wy5/mWZE71yXT+SSxbd02xf+YPwb8WqoWFCNgUms8qP6lp3Ra6u64L/a92NUwBptaN5KzDwzM8Ng==
+        procedure_id : 1288460493471548799
+        type_code : 14
+        code : |1+
+         // Summary: Defines the CallBack procedure for the selection of an option
+         // Syntax:
+         //SetCallbackSelection (<pProcedure> is procedure)
+         //
+         // Parameters:
+         //	pProcedure (procedure): procedure to call when an option is selected
+         // Return value:
+         // 	None
+         //
+         
+         procedure SetCallbackSelection(local pProcedure is procedure)
+         
+         // Stores the procedure
+         gaaProcedures[CALLBACK_SELECTION] = pProcedure
+        type : 458752
+      -
+        name : ExecuteCallBackSelection
+        internal_properties : CAAAAAgAAADuZVniiWDOxVC+ULqEwBI+sDjxs/uHqLWVaOOcStFs09Wy5/mWZE71yXT+SSxbd02xf+YPwb8WqoWFCNgUms8qP6lp3Ra6u64L/a92NUwBptaN5KzDwzM8Ng==
+        procedure_id : 1288460493471614335
+        type_code : 14
+        code : |1-
+         // Summary: Runs the selection CallBack for the current button
+         // Syntax:
+         // New_Procedure ()
+         //
+         // Parameters:
+         //	None
+         // Return value:
+         // 	None
+         //
+         
+         procedure ExecuteCallBackSelection()
+         
+         
+         // If the current selection subscript is correct
+         if 1 <= gnSelectedOption <= garrOptions.Count then 
+         	
+         	// If a selection procedure is specified
+         	if gaaProcedures[CALLBACK_SELECTION] <> Null then 
+         		// Runs the selection procedure
+         		pProc is procedure = gaaProcedures[CALLBACK_SELECTION]
+         		pProc( garrOptions[gnSelectedOption]:sIdentifier)
+         		
+         	end 
+         	
+         end
+        type : 458752
+      -
+        name : ExecuteCallBackClick
+        internal_properties : CAAAAAgAAADuZVniiWDOxVC+ULqEwBI+sDjxs/uHqLWVaOOcStFs09Wy5/mWZE71yXT+SSxbd02xf+YPwb8WqoWFCNgUms8qP6lp3Ra6u64L/a92NUwBptaN5KzDwzM8Ng==
+        procedure_id : 1288460493471679871
+        type_code : 14
+        code : |1-
+         // Summary: Runs the selection CallBack for the current button
+         // Syntax:
+         // New_Procedure ()
+         //
+         // Parameters:
+         //	None
+         // Return value:
+         // 	None
+         //
+         
+         procedure ExecuteCallBackClick()
+         
+         
+         // If the current selection subscript is correct
+         if 1 <= gnSelectedOption <= garrOptions.Count then
+         	
+         	// If a click procedure is specified
+         	if gaaProcedures[CALLBACK_CLICK] <> Null then 
+         		// Runs the selection procedure
+         		pProc is procedure = gaaProcedures[CALLBACK_CLICK]
+         		pProc( garrOptions[gnSelectedOption]:sIdentifier)
+         		
+         	end
+         	
+         end
+        type : 458752
+      -
+        name : Resize
+        internal_properties : CAAAAAgAAADSEn5JcO79Y/lpnYpNkmnzABppbpoa2zgqui7/EUiq/WXtBwfsPItkfsxrFq0SksRRTTj5A1Lua60BcsHUb/T7FFVzlYuSCvCMtv+gUROa7qcaxep1CTwxu+v9mGmOIYvnvaWU21yD7wvmBe2usIGPckKbyfBkbr9VjiPp9Gx7JPvEaaVtzi9/9dFabBvVeRYNHXcnGJ9VuZTd6NJRbkp/K3QBACPxCZor+3dL74m97nVgGUmNxPo73ZyLg9Ehp9Hg7IvMVxx8TIX/q8GoJsHqqZqD7G1PPS/JhvXyh6Z6hvh5YfolWWnSrW+0yyYk2aemc/Th7GpNzGwIG+0J
+        procedure_id : 1288460493471745407
+        type_code : 14
+        code : |1-
+         // Summary: Resize operation
+         // Syntax:
+         // New_Procedure ()
+         //
+         // Parameters:
+         //	None
+         // Return value:
+         // 	None
+         //
+         
+         procedure Resize()
+         
+         // When the window is resized, transmit the control information to the template
+         // - Dimensions of the "control template" control
+         gnHeightTemplateControl = {gsNameTemplateControl,indControl}..Height
+         gnWidthTemplateControl = {gsNameTemplateControl,indControl}..Width
+         // - Position of the "control template" control
+         gnPositionXControl = {gsNameTemplateControl,indControl}..X
+         gnPositionYControl = {gsNameTemplateControl,indControl}..Y
+         
+         // Refresh the display
+         DrawMenu()
+        type : 458752
+      -
+        name : SetOneClickMode
+        internal_properties : CAAAAAgAAADuZVniiWDOxVC+ULqEwBI+sDjxs/uHqLWVaOOcStFs09Wy5/mWZE71yXT+SSxbd02xf+YPwb8WqoWFCNgUms8qP6lp3Ra6u64L/a92NUwBptaN5KzDwzM8Ng==
+        procedure_id : 1288460493471810943
+        type_code : 14
+        code : |1-
+         // Summary: Defines whether the menu is in 'one click' mode or not
+         // In "one click" mode: a click on an option will select the option and will automatically run the validation code 
+         // Without the "one click" mode: a click on an option will select the option.
+         // Syntax:
+         //SetOneClickMode ([<bOneClickMode> is boolean])
+         //
+         // Parameters:
+         // 	bOneClickMode (boolean - default value=1): <specify the role of bOneClickMode>
+         // Return value:
+         // 	None
+         //
+         
+         procedure SetOneClickMode(local bOneClickMode is boolean = True)
+         
+         gbOneClickMode = bOneClickMode
+        type : 458752
+     templates :
+      -
+        name : CTPL_Menu
+        identifier : 0x155797500240a1a8
+        code_elements :
+         internal_properties : CAAAAAgAAACPCUyRRjCmYyADzhV0rdQKU3MQ64O6aKYaLunfwhQPSUJKAgyubDjkOurNK2TVyBr9wPbqAloGVUl6Z5K2sclWESGvSr17YyJ0befZ3Ms+QWxLSNaSR+5/
+         type_code : 93
+         p_codes :
+          -
+            internal_properties : CAAAAAgAAAAsZl/fYRGJUjZjKt0V1P9U3+p3qpa8sI3vaCvA3b39rVfoHHkatxtH/0dhT6Cxr2oq0G2tkZtlyquNlL2a40ueMwaLg1+MCq6e00IUpgZtE/HrZQOutdvf5d3YAff99H5SV5cB2OtH96+s21tCUEgc01BVrC7PbtQFY4UaDau0n5IlSjhxRUNpiWkKIxX1yiowdq6AxwRozuQ=
+            code : |1+
+             extern "winconst.wl"
+             extern "keyconst.wl"
+             
+             // Constants of control template
+             constant
+             	// Constant for calling the callback 
+             	CALLBACK_CLICK		= 1 // Click on an element
+             	CALLBACK_ROLLOVER		= 2	// Rollover of an element
+             	CALLBACK_SELECTION	= 3 // Select an element
+             end
+             
+             
+             // Options structure of control template
+             ST_OPTIONS is Structure
+             	sButtonName		is string	// Name of the option button
+             	sIdentifier	is string	// Identifier of the button 
+             	sImage			is string	// Image associated with the button
+             	sCaption		is string	// Button caption
+             end
+             
+             // Variables global to the control template
+             garrOptions						is array of ST_OPTIONS	// Array of menu options
+             gsBackgroundImageSelectedButton	is string					// Background image of the selected button
+             gfntFontSelectedButton		is font					// Font of the selected button
+             gsBackgroundImageStandardButton		is string					// Background image of a standard button
+             gfntFontStandardButton		is font					// Font of a standard button
+             gnSelectedOption			is int					// Options currently selected
+             gbOneClickMode					is boolean					// Defines whether the menu is in "one click" mode
+             gaaProcedures					is ASSOCIATIVE ARRAY (*, Null)  of procédures
+             gnWidthTemplateControl			is int					// Width of the template
+             gnHeightTemplateControl			is int					// Height of the template
+             gnPositionXControl				is int					// Position of the template (X-coordinate)
+             gnPositionYControl				is int					// Position of the template (Y-coordinate)
+             gsNameTemplateControl				is string					// Name of the 'control template' control
+             
+             gfntFontStandardButton	= BTN_OptionToClone.Font // Defines the default font
+             gfntFontSelectedButton	= BTN_OptionToClone.Font // Defines the default selection font
+             
+             // Events linked to the control template
+             Event(_MouseWheel, ".*", WM_MOUSEWHEEL) // Activation of the mouse wheel
+             Event(_KeyPressed, ".*", WM_KEYDOWN) // Press a key
+          -
+            internal_properties : CAAAAAgAAACK9b5Oq14NaEcmuwZu88Tb77jdcVChXG5lO/eLadv+AxvosD3h2fcXktJTKXFeN8izaJM7jx/j4oH21D9pKnGVdsGkMRzAgZ7/1xQqD9oPZ4yr7hfnV8sZ2eNBYB657JMITw2RueM6UTrTew==
+            code : |1+
+             // The 1st option is selected by default
+             gnSelectedOption = 1
+             
+             // The menu is in "one click" mode by default
+             gbOneClickMode = True
+             
+             // Stores the width and height of the 'control template' control
+             gnWidthTemplateControl = MySelf.Width
+             gnHeightTemplateControl = MySelf.Height
+             // Stores the coordinates of 'control template' control
+             gnPositionXControl = MySelf.X
+             gnPositionYControl = MySelf.Y
+             // Stores the name of the full path
+             gsNameTemplateControl = MySelf.FullName
+            type : 14
+          -
+            code : |1-
+             
+            type : 15
+          -
+            code : |1-
+             
+            type : 16
+          -
+            code : |1-
+             
+            type : 43
+          -
+            code : |1-
+             
+            type : 42
+          -
+            code : |1-
+             
+            type : 17
+          -
+            code : |1-
+             
+            type : 65541
+     procedure_templates : []
+     property_templates : []
+  -
+    name : STC_Caption1
+    identifier : 0x21e187fe0819057f
+    internal_properties : CAAAAAgAAAC1DIaiWPD6AhS8lPc3u3pMtziuBAHHI78cE12Gjax1pdqbezduFKRI/0TrmQhFB7E0d5fUwfrq41baLHPdbrfPoSC/XUKKvVxPFTZg7T+JdwoLxjaEBzTHFHPscKxbVAC8JNYa75SYUBZ+aI2CPeCpsRySkLINmqdiMl3+PUiHbwETbpCEEsA21DdAXUIuWpoQFpsi3o9URn97pfXVmoDGogVjwPKoomBnR7OkWnH6VQuJZ23PDWVBmPVBOUe89ZG8akKnXpXeqIvEzNwWu1LBi3aXceYvfPhYpqLJjQNv7RLwiPvHpD24rGadAyxH3cQQSdIgeplDIjNraOaGFW2u0Sq9ddZq7VT76d6Bnss6WHx+PiCENFrZViFmVhUp+74UUxi77oL02xEnd92NtUmSFl8lkscWB26qJpv+8wueCj6vG8LPHGVDIqiJtHU5xRyEaTvJen9WGsGCEbvngeZe0hf/OMX0/NCv6Mb7aGWjEu+PCzEA5vIwUPwQxLiMxYauD/5VEDU/5ZzJl8A1OsPiLDgs32pxjgnsDrSWyY2yXUHfWJBDPJCm8fPuNTves/fMqzWSArRvePuU/NY/hoDNbHHtoRCXl4cfVujmzZVcm2CxvTQaggYx8iicD1ID97XxiR/gJUTD/D/Zh82Gf6jNkuxXI6oGHcXSRhnGdTlCOpb9yrk7v2h875wy4y9ALdpy1tzMQFU24dGueM5hoOKUWc2CiYH3FSlhDYbFEHdZ6wPFhxJcotcw3SKomtbnrO9+HIza0LzXEd/7hCQ7g4Rs+AifgJdbQmfGeK7tAFsKiYk//E+1JZKtjkQNl7MNlGaIPUmHqy1LcEcUsjrr4ABjBdpRiku+tmvaQqh7miQCn4OCZ6ma1wlLDOL03SaxXINZsmFUXpuzwKVZKAPCMSBhSrS0
+    properties :
+     x : 19
+     y : 344
+     width : 743
+     height : 133
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x28f8b4bb0e8e0db0
+  internal_properties : CAAAAAgAAAAkibjYgINYMM+jzYFaGcM+maT8v7x7AYOAQLpnNNQ55yAvBJerIAXgdpAI6w8W0AsTmBsxTsRDd9X4hM5zcdDbIqWN3zqCi2E51MxYXmj7xZVBP8nrmhY24APE22tVN9v5Cm1MjyGgSPUXMNmVPAnp/xRpPk9rLzq6rgpsnvXZXCRH/fcBjGRVvWkcmr7WAZJAbYFAxFRClO/bpIcsmsaGN5rk7Jh7qG4YUQs1yEdr8R9CGTpdHd8uFl4WLKIfyyC6RirE7cG8qCfyAP3KQDM+kLZbqYXa+vDx18znOhYoiSqr4TW+QC3nxi4=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAAAmlnsQ76wdtQ+vRUrFSzo4xY6vGckPxdl/RM+qv4T7VP2+3i9AqgNm+KzToz/ItLt22NOj7hzDzM1Qpfp5iRh18VPa85JWgKRO
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      procedure WIN_Example2()
+      
+      constant
+      	// Images of the menu
+      	cstMENU_ASSISTANCE_IMAGES = ".\Menu\Menu_Assistance.png"
+      	cstMENU_CUSTOMERS_IMAGES = ".\Menu\Menu_Customers.png"
+      	cstMENU_ORDERS_IMAGES = ".\Menu\Menu_Orders.png"
+      	cstMENU_CONTRACTS_IMAGES = ".\Menu\Menu_Contracts.png"
+      	cstMENU_INVOICE_IMAGES = ".\Menu\Menu_Invoice.png"
+      	cstMENU_PRODUCTS_IMAGES = ".\Menu\Menu_Products.png"
+      	cstMENU_HUMANRESOURCES_IMAGES = ".\Menu\Menu_HumanResources.png"
+      	cstMENU_STATS_IMAGES = ".\Menu\Menu_ReportStatistics.png"
+      	cstMENU_STOCK_IMAGES = ".\Menu\Menu_Stock.png"
+      	
+      	// Number of menu option
+      	cstMENU_ASSISTANCE = 1
+      	cstMENU_CUSTOMERS = 2
+      	cstMENU_ORDERS = 3
+      	cstMENU_CONTRACTS = 4
+      	cstMENU_INVOICE = 5
+      	cstMENU_PRODUCTS = 6
+      	cstMENU_HUMANRESOURCES = 7
+      	cstMENU_STATS = 8
+      	cstMENU_STOCK = 9
+      	
+      end
+   -
+     code : |1-
+      // Initializes the menu
+      InitializeMenu()
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 2
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     code : |1-
+      
+     type : 17
+   -
+     code : |1-
+      
+     type : 13
+   -
+     code : |1-
+      CTPL_Menu.Resize()
+     type : 65541
+  procedures :
+   -
+     name : InitializeMenu
+     procedure_id : 1288460493470369151
+     type_code : 14
+     code : |1-
+      // Summary: Initialize the menu
+      // Syntax:
+      //InitializeMenu ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      
+      procedure InitializeMenu()
+      
+      fntFontOption is font // Font of the options
+      fntFontOptionSelect is font // Font of the selected option
+      
+      
+      // Adds the menu options
+      CTPL_Menu.AddOption("Assistance", cstMENU_ASSISTANCE, cstMENU_ASSISTANCE_IMAGES)
+      CTPL_Menu.AddOption("Customers", cstMENU_CUSTOMERS, cstMENU_CUSTOMERS_IMAGES)
+      CTPL_Menu.AddOption("Orders", cstMENU_ORDERS, cstMENU_ORDERS_IMAGES)
+      CTPL_Menu.AddOption("Contracts", cstMENU_CONTRACTS, cstMENU_CONTRACTS_IMAGES)
+      CTPL_Menu.AddOption("Invoices", cstMENU_INVOICE, cstMENU_INVOICE_IMAGES)
+      CTPL_Menu.AddOption("Products", cstMENU_PRODUCTS, cstMENU_PRODUCTS_IMAGES)
+      CTPL_Menu.AddOption("Contributors", cstMENU_HUMANRESOURCES, cstMENU_HUMANRESOURCES_IMAGES)
+      CTPL_Menu.AddOption("Statistics", cstMENU_STATS, cstMENU_STATS_IMAGES)
+      CTPL_Menu.AddOption("Stocks", cstMENU_STOCK, cstMENU_STOCK_IMAGES)
+      
+      // Defines the font of the options
+      fntFontOption.Color = iWhite
+      fntFontOption.Size = 22
+      fntFontOption.Name = "Open Sans"
+      CTPL_Menu.SetButtonFont(fntFontOption)
+      
+      // Defines the font of selected option
+      fntFontOptionSelect.Color = iWhite
+      fntFontOptionSelect.Size = 22
+      fntFontOptionSelect.Name ="Open Sans"
+      fntFontOptionSelect.Bold = True
+      CTPL_Menu.SetFontSelectionButton(fntFontOptionSelect)
+      
+      // Defines the background images of the button
+      CTPL_Menu.SetButtonBackgroundImage("BackgroundButton.png")
+      CTPL_Menu.SetBackgroundImageSelectionButton("BackgroundSelection.png")
+      
+      // Defines the CallBack procedure that must be run during a click
+      CTPL_Menu.SetCallbackClick(OpenMenu)
+      
+      // 'One click' mode
+      CTPL_Menu.SetOneClickMode(True)
+      
+      // Draws the menu
+      CTPL_Menu.DrawMenu()
+     type : 458752
+   -
+     name : OpenMenu
+     internal_properties : CAAAAAgAAACyPf6Vu9iDiXoa1+0q1psib8Rs3KID7f5oskzVDVSSg7YbsQyR6rC14IiKMB621a7knHRl7v6tI3BcJZ5sPETlR7Bq+pxSbxIGXprMfr/gi5h105vnqDVC3rO+MJVG+JW1bHOJvjPnoOIVoLcm4sv271XZUHrHormiV2aYd4NplBAybCCpKDeiTiNls/aebxIkwS/OQUo=
+     procedure_id : 1288460493470434687
+     type_code : 14
+     code : |1-
+      // Summary: Opens the requested option
+      // Syntax:
+      //OpenMenu (<nOption>)
+      //
+      // Parameters:
+      //	nOption: Identifier of option on which the click was performed
+      // Return value:
+      // 	None
+      //
+      
+      procedure OpenMenu(nOption)
+      
+      
+      // According to the option clicked
+      switch nOption
+      	case cstMENU_ASSISTANCE : Info("Opening the window for helping the users")
+      	case cstMENU_CUSTOMERS : Info("Opening the window for managing the customers")
+      	case cstMENU_ORDERS : Info("Opening the window for managing the orders")
+      	case cstMENU_CONTRACTS : Info("Opening the window for managing the contracts")
+      	case cstMENU_INVOICE : Info("Opening the window for managing the invoices")
+      	case cstMENU_PRODUCTS : Open(WIN_Products)
+      	case cstMENU_HUMANRESOURCES : Info("Opening the window for managing the contributors")
+      	case cstMENU_STATS : Info("Opening the window for calculating the sale statistics")
+      	case cstMENU_STOCK : Info("Opening the window for managing the stock")
+      	other case : Error("This option is unknown.")
+      end
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACYofBkbJfAOBfxYj8Mcz8hROmMNh84TCaOIu/BfBSTBl5bKc06D8BtALLRwbVUWG/ANE4bc8nLf3bcb6OSr6jT6QoLkSnp7A0CjJ44kLl+3Hw1Qsk22AwoVCpsLWni8urflFXmuo90hO8OZaE5Eqxs6X0=
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1fc7965513e6522e
+  internal_properties : CAAAAAgAAABPrGoK+uxjEcI9g3bvgnH2hgFUuHhoj2v4/aupladKGYVbCorUJkiA74qP11sVgoMfnCLMWA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_MonApplication.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
